@@ -1,9 +1,14 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutabl index calld stage.
+asdasdasd
+<<<<<<< HEAD
 <<<<<<< HEAD
 Creating a new branch is quick and simple
 =======
 Creating a new branch is quick and simple
 
 >>>>>>> feature1
+=======
+1111
+>>>>>>> dev
